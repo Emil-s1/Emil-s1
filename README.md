@@ -18,7 +18,7 @@
 
 ```text
 ╔══════════════════════════════════════╗
-║          ✦ BLOOMIX ✦                 ║
+║          ✦ BLOOMIX ✦                ║
 ║       GREEN CODE • DIGITAL GARDEN    ║
 ╠══════════════════════════════════════╣
 ║  > USER     : Emil                   ║
@@ -32,11 +32,12 @@
 ```
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/BLOOMIX-39FF14?style=for-the-badge&labelColor=080D08" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=080D08" />
 <img src="https://img.shields.io/badge/GROW-EVERYDAY-39FF14?style=for-the-badge&labelColor=080D08" />
+
 </div>
-```
 ```
 
 - 🌱 Exploring new technologies and building projects.
