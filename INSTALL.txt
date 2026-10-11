@@ -1,0 +1,6 @@
+BloomiX profile files
+
+Upload README.md and profile-banner.svg together into the root of your profile repository:
+https://github.com/Emil-s1
+
+Then commit the changes. The README references ./profile-banner.svg, so keep the banner file in the repository.
