@@ -43,23 +43,15 @@
 
  <div align="center">
 
-<h2>🌿 МОИ ПРОЕКТЫ 🌿</h2>
+## 🌿 МОИ ПРОЕКТЫ 🌿
 
-<a href="https://github.com/Emil-s1/CubRun">
-  <img src="https://img.shields.io/badge/🎮_CubRun-39FF14?style=for-the-badge&labelColor=101510" alt="CubRun" />
-</a>
+| Проект | Описание | Ссылка |
+|---|---|---|
+| 🎮 CubRun | Игровой проект | [Открыть →](https://github.com/Emil-s1/CubRun) |
+| 🧊 CubeRunner | Проект разработки | [Открыть →](https://github.com/Emil-s1/CubeRunner) |
+| 🌱 Kotlin-Learn | Изучение Kotlin | [Открыть →](https://github.com/Emil-s1/Kotlin-Learn) |
 
-<a href="https://github.com/Emil-s1/CubeRunner">
-  <img src="https://img.shields.io/badge/🧊_CubeRunner-39FF14?style=for-the-badge&labelColor=101510" alt="CubeRunner" />
-</a>
-
-<a href="https://github.com/Emil-s1/Kotlin-Learn">
-  <img src="https://img.shields.io/badge/🌱_Kotlin--Learn-39FF14?style=for-the-badge&labelColor=101510" alt="Kotlin Learn" />
-</a>
-
-<a href="https://github.com/Emil-s1">
-  <img src="https://img.shields.io/badge/✦_Все_репозитории-39FF14?style=for-the-badge&labelColor=101510" alt="Все проекты" />
-</a>
+**[💚 Все репозитории](https://github.com/Emil-s1?tab=repositories)**
 
 </div>
 ---
