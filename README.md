@@ -15,30 +15,26 @@
 
 <h2 align="center">🌿 &nbsp; ABOUT ME &nbsp; 🌿</h2>
 
+
 ```text
-```text
-╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
-┃          ✦ B L O O M I X ✦           ┃
-┃       GREEN CODE • DIGITAL GARDEN     ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                      ┃
-┃   ❯ USER      Emil                   ┃
-┃   ❯ STATUS    ● ONLINE               ┃
-┃   ❯ FOCUS     Development             ┃
-┃   ❯ MISSION   Create something great  ┃
-┃                                      ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃   [███████████░░░░░░░░░] EVOLVING     ┃
-┃                                      ┃
-┃      GROW THROUGH EVERY LINE OF CODE  ┃
-╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
-```html
+╔══════════════════════════════════════╗
+║          ✦ BLOOMIX ✦                 ║
+║       GREEN CODE • DIGITAL GARDEN    ║
+╠══════════════════════════════════════╣
+║  > USER     : Emil                   ║
+║  > STATUS   : ONLINE                 ║
+║  > FOCUS    : Development            ║
+║  > MISSION  : Build & Evolve         ║
+╠══════════════════════════════════════╣
+║  [ SYSTEM READY ]  ●                 ║
+║  KEEP GROWING. KEEP CREATING.        ║
+╚══════════════════════════════════════╝
+```
+
 <div align="center">
-
-<img src="https://img.shields.io/badge/BLOOMIX-39FF14?style=for-the-badge&labelColor=071007" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=071007" />
-<img src="https://img.shields.io/badge/KEEP-GROWING-39FF14?style=for-the-badge&labelColor=071007" />
-
+<img src="https://img.shields.io/badge/BLOOMIX-39FF14?style=for-the-badge&labelColor=080D08" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=080D08" />
+<img src="https://img.shields.io/badge/GROW-EVERYDAY-39FF14?style=for-the-badge&labelColor=080D08" />
 </div>
 ```
 ```
