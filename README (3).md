@@ -26,9 +26,9 @@
 │  > STATUS    ● ONLINE                    │
 │  > FOCUS     Development                 │
 │  > MISSION   Build & Evolve              │
-│                                           │
-│  KEEP GROWING. KEEP CREATING.             │
-╰───────────────────────────────────────────╯
+│                                          │
+│  KEEP GROWING. KEEP CREATING.            │
+╰──────────────────────────────────────────╯
 ```
 
 </td>
