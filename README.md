@@ -1,71 +1,82 @@
+
 <div align="center">
 
-<img src="./animated-banner.gif" width="100%" alt="BloomiX animated neon-green banner" />
+<img src="./animated-banner.gif" width="100%" alt="Анимированный баннер BloomiX" />
 
-<h2>Привет, меня зовут Эмиль 👋</h2>
+# 🌿 BloomiX
 
-<p><b>Добро пожаловать в мой цифровой сад!</b><br/>
-Превращаю идеи в код — и расту с каждым днём. 💚</p>
+### CODE · CREATE · EVOLVE
 
-<a href="https://github.com/Emil-s1"><img src="https://img.shields.io/badge/GITHUB-EMIL--S1-102015?style=for-the-badge&logo=github&logoColor=39ff14&labelColor=07110a" alt="GitHub Emil-s1"/></a>
-<a href="https://github.com/Emil-s1?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-102015?style=for-the-badge&logo=github&logoColor=39ff14&labelColor=07110a" alt="Explore projects"/></a>
-<a href="https://github.com/Emil-s1"><img src="https://img.shields.io/badge/STATUS-ONLINE-102015?style=for-the-badge&labelColor=07110a" alt="Status online"/></a>
+**Привет, меня зовут Эмиль! 👋**
 
-</div>
+Добро пожаловать в мой цифровой сад!  
+Превращаю идеи в код — и расту с каждым днём. 💚
+
+[**Мой GitHub**](https://github.com/Emil-s1)　•　
+[**Мои проекты**](https://github.com/Emil-s1?tab=repositories)　•　
+[**Репозитории**](https://github.com/Emil-s1?tab=repositories)
 
 ---
 
-<h2 align="center">🌿 О МНЕ</h2>
+</div>
+
+<h2 align="center">🌿 ОБО МНЕ 🌿</h2>
 
 <table>
 <tr>
-<td width="50%" valign="middle">
+<td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/BLOOMIX_TERMINAL-102015?style=for-the-badge&labelColor=07110a&logo=windowsterminal&logoColor=39ff14" alt="BloomiX Terminal"/>
+### 🖥️ ТЕРМИНАЛ BLOOMIX
 
 </div>
 
 ```text
 ╭──────────────────────────────────╮
-│  > USER     Emil-s1              │
-│  > STATUS   ● ONLINE             │
-│  > FOCUS    Development          │
-│  > MISSION  Build & Evolve       │
+│  > ПОЛЬЗОВАТЕЛЬ Emil-s1           │
+│  > СТАТУС       ● В СЕТИ          │
+│  > НАПРАВЛЕНИЕ  Разработка        │
+│  > МИССИЯ       Создавать и расти │
 │                                  │
-│  KEEP GROWING. KEEP CREATING.    │
+│  РАСТИ. СОЗДАВАТЬ. РАЗВИВАТЬСЯ.  │
 ╰──────────────────────────────────╯
 ```
 
 </td>
-<td width="50%" valign="middle">
+<td width="50%" valign="top">
 
-🌱 **Изучаю** новые технологии и создаю проекты.
+🌱 Изучаю новые технологии и создаю проекты.
 
-💡 **Экспериментирую** и учусь через практику.
+💡 Учусь через творчество и эксперименты.
 
-💻 **Ценю** чистый код и интересные идеи.
+💻 Люблю чистый код и интересные идеи.
 
-🚀 **Развиваюсь** с каждым новым проектом.
+🚀 Постоянно совершенствуюсь с каждым проектом.
 
 </td>
 </tr>
 </table>
 
-<h2 align="center">⚡ МОЙ СТЕК</h2>
+---
+
+<h2 align="center">⚡ МОЙ СТЕК ⚡</h2>
 
 <div align="center">
 
-<a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/KOTLIN-102015?style=for-the-badge&labelColor=07110a&logoColor=39ff14" alt="Kotlin"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TYPESCRIPT-102015?style=for-the-badge&labelColor=07110a&logoColor=39ff14" alt="TypeScript"/></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-102015?style=for-the-badge&labelColor=07110a&logoColor=39ff14" alt="Git"/></a>
-<a href="https://github.com/Emil-s1"><img src="https://img.shields.io/badge/GITHUB-102015?style=for-the-badge&labelColor=07110a&logoColor=39ff14" alt="GitHub"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_CODE-102015?style=for-the-badge&labelColor=07110a&logoColor=39ff14" alt="Visual Studio Code"/></a>
+| Технология | Ссылка |
+|:---:|:---:|
+| 🟣 Kotlin | [Изучить](https://kotlinlang.org/) |
+| 🔷 TypeScript | [Изучить](https://www.typescriptlang.org/) |
+| 🌱 Git | [Изучить](https://git-scm.com/) |
+| 🐙 GitHub | [Открыть](https://github.com/Emil-s1) |
+| 💻 VS Code | [Открыть](https://code.visualstudio.com/) |
 
 </div>
 
-<h2 align="center">🌱 МОИ ПРОЕКТЫ</h2>
+---
+
+<h2 align="center">🌱 МОИ ПРОЕКТЫ 🌱</h2>
 
 <table>
 <tr>
@@ -73,24 +84,11 @@
 
 <div align="center">
 
-<h3>🎮 <a href="https://github.com/Emil-s1/CubRun">CubRun</a></h3>
+### 🎮 CubRun
 
-<sub>Игровой проект</sub>
+Небольшой игровой проект.
 
-[Открыть ↗](https://github.com/Emil-s1/CubRun)
-
-</div>
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-<h3>🧊 <a href="https://github.com/Emil-s1/CubeRunner">CubeRunner</a></h3>
-
-<sub>Игровой проект</sub>
-
-[Открыть ↗](https://github.com/Emil-s1/CubeRunner)
+[**Открыть проект →**](https://github.com/Emil-s1/CubRun)
 
 </div>
 
@@ -99,11 +97,24 @@
 
 <div align="center">
 
-<h3>🟩 <a href="https://github.com/Emil-s1/Kotlin-Learn">Kotlin-Learn</a></h3>
+### 🧊 CubeRunner
 
-<sub>Изучение Kotlin</sub>
+Игровой проект.
 
-[Открыть ↗](https://github.com/Emil-s1/Kotlin-Learn)
+[**Открыть проект →**](https://github.com/Emil-s1/CubeRunner)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 🟩 Kotlin-Learn
+
+Изучение языка Kotlin.
+
+[**Открыть проект →**](https://github.com/Emil-s1/Kotlin-Learn)
 
 </div>
 
@@ -113,20 +124,21 @@
 
 <div align="center">
 
-<a href="https://github.com/Emil-s1?tab=repositories"><img src="https://img.shields.io/badge/ВСЕ_РЕПОЗИТОРИИ-102015?style=for-the-badge&logo=github&logoColor=39ff14&labelColor=07110a" alt="Все репозитории"/></a>
+[**🌿 ПОСМОТРЕТЬ ВСЕ РЕПОЗИТОРИИ →**](https://github.com/Emil-s1?tab=repositories)
 
 </div>
 
-<h2 align="center">📊 СТАТИСТИКА GITHUB</h2>
+---
+
+<h2 align="center">📊 СТАТИСТИКА GITHUB 📊</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Emil-s1&show_icons=true&hide_border=true&bg_color=07110a&title_color=39ff14&icon_color=39ff14&text_color=c9f7c2&ring_color=39ff14" alt="Статистика GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Emil-s1&show_icons=true&hide_border=true&bg_color=07110a&title_color=39ff14&icon_color=39ff14&text_color=c9f7c2" alt="Статистика GitHub" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emil-s1&layout=compact&hide_border=true&bg_color=07110a&title_color=39ff14&text_color=c9f7c2" alt="Популярные языки"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emil-s1&layout=compact&hide_border=true&bg_color=07110a&title_color=39ff14&text_color=c9f7c2" alt="Популярные языки программирования" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Emil-s1&hide_border=true&background=07110a&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=c9f7c2&currStreakNum=ffffff&sideNums=ffffff&dates=8aa58a" alt="GitHub streak"/>
-
+<img width="90%" src="https://streak-stats.demolab.com?user=Emil-s1&hide_border=true&background=07110a&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=c9f7c2&currStreakNum=ffffff&sideNums=ffffff&dates=8aa58a" alt="Активность GitHub" />
 
 </div>
 
@@ -134,12 +146,12 @@
 
 <div align="center">
 
-<h3>🌱 KEEP GROWING. KEEP CREATING. 🌱</h3>
+## 🌱 ПРОДОЛЖАЙ РАСТИ. ПРОДОЛЖАЙ СОЗДАВАТЬ. 🌱
 
-<i>Каждый большой проект начинается с одной строки кода.</i>
+*Каждый большой проект начинается с одной строки кода.*
 
-<a href="https://github.com/Emil-s1"><img src="https://img.shields.io/badge/FOLLOW-EMIL--S1-102015?style=for-the-badge&logo=github&logoColor=39ff14&labelColor=07110a" alt="Follow Emil-s1"/></a>
+[**⭐ Посетить мой GitHub**](https://github.com/Emil-s1)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061b0d,50:0b5d1b,100:39ff14&height=100&section=footer" width="100%" alt=""/>
+**Спасибо, что заглянул в мой цифровой сад! 💚**
 
 </div>
