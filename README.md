@@ -17,18 +17,30 @@
 
 ```text
 ```text
-╔══════════════════════════════════════════╗
-║           BLOOMIX // DEVELOPER           ║
-╠══════════════════════════════════════════╣
-║  USER     : Emil                         ║
-║  STATUS   : ONLINE                       ║
-║  MODE     : BUILDING                     ║
-║  SPECIAL  : CODE & CREATIVITY            ║
-╠══════════════════════════════════════════╣
-║  [#####---------------] GROWING... 25%   ║
-║                                          ║
-║  > Think. Code. Create. Evolve.           ║
-╚══════════════════════════════════════════╝
+╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
+┃          ✦ B L O O M I X ✦           ┃
+┃       GREEN CODE • DIGITAL GARDEN     ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                      ┃
+┃   ❯ USER      Emil                   ┃
+┃   ❯ STATUS    ● ONLINE               ┃
+┃   ❯ FOCUS     Development             ┃
+┃   ❯ MISSION   Create something great  ┃
+┃                                      ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃   [███████████░░░░░░░░░] EVOLVING     ┃
+┃                                      ┃
+┃      GROW THROUGH EVERY LINE OF CODE  ┃
+╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
+```html
+<div align="center">
+
+<img src="https://img.shields.io/badge/BLOOMIX-39FF14?style=for-the-badge&labelColor=071007" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=071007" />
+<img src="https://img.shields.io/badge/KEEP-GROWING-39FF14?style=for-the-badge&labelColor=071007" />
+
+</div>
+```
 ```
 
 - 🌱 Exploring new technologies and building projects.
