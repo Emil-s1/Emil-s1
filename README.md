@@ -17,10 +17,10 @@
 
 ```text
 ╭──────────────────────────────────────╮
-│  USER      Emil / BloomiX             │
-│  MISSION   Build something awesome    │
-│  VIBE      Green neon & dark mode     │
-│  STATUS    Always evolving 🌱         │
+│  USER      Emil / BloomiX            │
+│  MISSION   Build something awesome   │
+│  VIBE      Green neon & dark mode    │
+│  STATUS    Always evolving 🌱       │
 ╰──────────────────────────────────────╯
 ```
 
