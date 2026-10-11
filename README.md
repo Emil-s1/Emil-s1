@@ -16,12 +16,13 @@
 <h2 align="center">🌿 &nbsp; ABOUT ME &nbsp; 🌿</h2>
 
 ```text
-╭──────────────────────────────────────╮
-│  USER      Emil / BloomiX            │
-│  MISSION   Build something awesome   │
-│  VIBE      Green neon & dark mode    │
-│  STATUS    Always evolving 🌱       │
-╰──────────────────────────────────────╯
+
+```html
+<h2 align="center">🌿 BLOOMIX TERMINAL 🌿</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=for-the-badge&labelColor=080D08" />
+  <img src="https://img.shields.io/badge/STATUS-CREATING-39FF14?style=for-the-badge&labelColor=080D08" />
+</p>
 ```
 
 - 🌱 Exploring new technologies and building projects.
