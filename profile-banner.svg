@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#020804"/><stop offset=".55" stop-color="#06190b"/><stop offset="1" stop-color="#010503"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#a8ff55"/><stop offset=".45" stop-color="#39ff14"/><stop offset="1" stop-color="#087a22"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="1200" height="250" fill="url(#bg)"/>
+<path d="M-30 50 C170 -15 230 145 430 72 S780 0 980 48 S1130 110 1240 8" fill="none" stroke="#39ff14" stroke-width="12" opacity=".42" filter="url(#blur)"/>
+<path d="M-30 50 C170 -15 230 145 430 72 S780 0 980 48 S1130 110 1240 8" fill="none" stroke="url(#glow)" stroke-width="3"/>
+<path d="M-30 90 C160 20 260 180 455 112 S760 35 930 86 S1100 145 1240 55" fill="none" stroke="#5cff39" stroke-width="1.5" opacity=".7"/>
+<path d="M-20 185 C140 110 255 230 410 180 S710 120 865 175 S1080 235 1230 160" fill="none" stroke="#1c9c34" stroke-width="2" opacity=".8"/>
+<g fill="#39ff14" opacity=".16">
+<circle cx="115" cy="70" r="42"/><circle cx="1090" cy="72" r="55"/><circle cx="1000" cy="210" r="36"/>
+</g>
+<g stroke="#4dff2b" stroke-width="2" fill="#1b7b29" opacity=".9">
+  <path d="M48 205 Q15 150 24 100 Q70 125 48 205Z"/><path d="M49 205 Q68 144 112 126 Q104 180 49 205Z"/><path d="M39 177 Q-2 157 4 125 Q37 137 39 177Z"/>
+  <path d="M1152 205 Q1128 151 1147 99 Q1185 132 1152 205Z"/><path d="M1152 205 Q1175 148 1201 135 Q1202 181 1152 205Z"/><path d="M1163 174 Q1129 153 1129 126 Q1161 137 1163 174Z"/>
+</g>
+<text x="600" y="105" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="900" letter-spacing="-3" fill="#39ff14" opacity=".24" filter="url(#blur)">BloomiX</text>
+<text x="600" y="105" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="900" letter-spacing="-3" fill="#f1ffe9">BloomiX</text>
+<text x="600" y="140" text-anchor="middle" font-family="monospace" font-size="16" font-weight="bold" letter-spacing="5" fill="#caffbb">CODE  |  CREATE  |  EVOLVE</text>
+<path d="M360 165 H840" stroke="#39ff14" stroke-width="1" opacity=".55"/>
+<text x="600" y="195" text-anchor="middle" font-family="monospace" font-size="16" fill="#86ff72">DIGITAL GARDEN • KEEP GROWING</text>
+</svg>
