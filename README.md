@@ -41,28 +41,27 @@
 
 ---
 
-<h2 align="center">🍃 &nbsp; MY PROJECTS &nbsp; 🍃</h2>
+ <div align="center">
 
-<div align="center">
+<h2>🌿 МОИ ПРОЕКТЫ 🌿</h2>
 
 <a href="https://github.com/Emil-s1/CubRun">
-<img src="https://img.shields.io/badge/🎮_CubRun-Explore-14532D?style=for-the-badge&labelColor=080D08" />
+  <img src="https://img.shields.io/badge/🎮_CubRun-39FF14?style=for-the-badge&labelColor=101510" alt="CubRun" />
 </a>
 
 <a href="https://github.com/Emil-s1/CubeRunner">
-<img src="https://img.shields.io/badge/🧊_CubeRunner-Explore-14532D?style=for-the-badge&labelColor=080D08" />
+  <img src="https://img.shields.io/badge/🧊_CubeRunner-39FF14?style=for-the-badge&labelColor=101510" alt="CubeRunner" />
 </a>
 
 <a href="https://github.com/Emil-s1/Kotlin-Learn">
-<img src="https://img.shields.io/badge/🌿_Kotlin--Learn-Explore-14532D?style=for-the-badge&labelColor=080D08" />
+  <img src="https://img.shields.io/badge/🌱_Kotlin--Learn-39FF14?style=for-the-badge&labelColor=101510" alt="Kotlin Learn" />
 </a>
 
-<a href="https://github.com/Emil-s1?tab=repositories">
-<img src="https://img.shields.io/badge/✦_All_Repositories-39FF14?style=for-the-badge&labelColor=080D08" />
+<a href="https://github.com/Emil-s1">
+  <img src="https://img.shields.io/badge/✦_Все_репозитории-39FF14?style=for-the-badge&labelColor=101510" alt="Все проекты" />
 </a>
 
 </div>
-
 ---
 
 <h2 align="center">📊 &nbsp; GITHUB STATS &nbsp; 📊</h2>
